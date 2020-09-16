@@ -1,12 +1,6 @@
 Good afternoon Dr. Bondar. This is Harrison.
-Syntax highlighted code block
-
 Harrison Lilley Photography
-## Header 2
-### Header 3
-
-My name is Harrison Lilley and I am from the Pittsburgh area attending Penn State Behrend majoring in Digital Media, Arts and Technology (DIGIT).
-- List
+My name is Harrison Lilley and I am from the Pittsburgh area attending Penn State Behrend majoring in Digital Media, Arts and Technology (DIGIT). I went to Mt. Lebanon High School where I was the photographer for the yearbook, our student newspaper, central administration and athletic department.
 
 1. Numbered
 2. List
