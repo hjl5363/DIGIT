@@ -1,11 +1,11 @@
 Good afternoon Dr. Bondar. This is Harrison.
 Syntax highlighted code block
 
-# Header 1
+Harrison Lilley Photography
 ## Header 2
 ### Header 3
 
-- Bulleted
+My name is Harrison Lilley and I am from the Pittsburgh area attending Penn State Behrend majoring in Digital Media, Arts and Technology (DIGIT).
 - List
 
 1. Numbered
