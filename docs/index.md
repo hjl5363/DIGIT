@@ -1,17 +1,19 @@
 # Harrison Lilley Photography
 My name is Harrison Lilley and I am from the Pittsburgh area attending Penn State Behrend majoring in Digital Media, Arts and Technology (DIGIT). I went to Mt. Lebanon High School where I was the photographer for the yearbook, our student newspaper, central administration and athletic department.
 
-# [Resume](Resume.md)
+# Resume
 
-I have worked at Emma Kaufmann Camp, have done numerous freelance jobs, was named South Hills School District Association Student of the Year, done numerous community service activites and I am now the photographer and social media director for the Behrend Beacon and the photographer for the Penn State Behrend Athletic Department.
+https://drive.google.com/file/d/1tkbJIDHsQ_S-SvPYgPBnsJSUHgG51LyN/view?usp=sharing
+
 # Portfolio
+## ART 168 - Jump Start Your Day
 
 https://www.youtube.com/watch?v=GDSRm6fP1K8
+
 ## Social Media
-Facebook: Harrison Lilley Photography
-Twitter: @hlilleyphoto 
-Instagram: @hlilleyphoto
-## Contact Information
+Facebook: Harrison Lilley Photography - https://www.facebook.com/hlilleyphoto/
+Twitter: @hlilleyphoto - https://twitter.com/hlilleyphoto?lang=en
+Instagram: @hlilleyphoto - https://www.instagram.com/hlilleyphoto/?utm_source=ig_embed&ig_mid=E8D13DBA-856B-4C6D-B8C3-FD88FB3B7C41## Contact Information
 Email: harrisonjlilleyimages@gmail.com
 Phone:412-420-9269
 **Bold** and _Italic_ and `Code` text
